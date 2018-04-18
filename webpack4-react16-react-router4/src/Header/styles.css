@@ -1,0 +1,7 @@
+.header {
+	display: flex;
+	color: red;
+	font-size: 3rem;
+	margin: 0;
+    padding: 0;
+}
